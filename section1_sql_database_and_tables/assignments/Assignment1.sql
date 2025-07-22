@@ -1,4 +1,5 @@
 -- Active: 1735962276371@@127.0.0.1@3306@section1
+
 -- 💎 Assignment On Creating And Deleting Database 
 
 -- 1. Command To Create Database With Name 'section1Assignments';
